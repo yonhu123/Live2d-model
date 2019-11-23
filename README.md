@@ -1,5 +1,5 @@
 # Live2d-model
-从Eikanya(https://github.com/Eikanya/Live2d-model)用户Clone的Live2d模型，主要为少女前线，碧蓝航线,少女咖啡枪Live2d模型。
+从 [Eikanya](https://github.com/Eikanya/Live2d-model)用户Clone的Live2d模型，主要为少女前线，碧蓝航线,少女咖啡枪Live2d模型。
 girls fronline,Azura lane，girls cafe gun Live2d models.
 ------------------------------------------------------------
 注意：
